@@ -89,7 +89,7 @@ end
 Player.Idled:Connect(onIdled)
 
 print("Anti AFK has been enabled.")
-task.wait(2)
+
 
 
 
